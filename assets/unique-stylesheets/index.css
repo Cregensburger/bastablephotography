@@ -1,0 +1,102 @@
+/********************
+  GENERAL STYLING
+********************/
+	body {
+		font-family: 'Open Sans', sans-serif;
+		border: 0;
+	}
+
+	#MaryPicture {
+		max-height: 13em;
+		border-radius: 100%;
+		border: #E6AE00 solid 4px;
+	}
+
+	h1 {
+	  font-family:'Changa One', sans-serif;
+	  margin: 15px 0;
+	  font-size: 1.75em;
+	  font-weight: normal;
+	  line-height: 0.8em;
+	  text-align: center;
+	}
+
+	#navbarLinks {
+	  font-size: .90em;
+	  margin: -5px 0 0;
+	  font-weight: normal;
+	  font-family: 'Open Sans', sans-serif;
+	  text-align: center;
+	}
+
+
+	#wrapper {
+		max-width: 940px;
+		margin: 0 auto;
+		padding: 0 5%;
+		font-family: 'Open Sans', sans-serif;
+		text-align: center;
+	}
+
+/********************
+  COLOR STYLING
+********************/
+	/* header background */
+		#headWrap {
+			background-color: #E3F5B7;
+			width: 100%;
+			height: 7em;
+		}
+
+	/* body */
+		body {
+			background-image: url("stardust/stardust.png");
+		}
+
+		p {
+			color: grey;
+		}
+			#personalStatement, #headWrap {
+				background-color: #E3F5B7;
+				padding: 1em;
+				border-radius: .5em;
+				width: 100%;
+				height: 100%;
+			}
+
+	/* headers */
+		h1 {
+			color: #D46700;
+		}
+
+		h3 {
+			color: #9E3F00;
+		}
+
+	/* links */
+		a, a:hover {
+		  color: #0CCABA;
+		  text-decoration: none;
+		}
+
+/********************
+  IMAGE STYLING
+********************/
+	/* header background */
+		.horizontalPictures {
+			max-width: 100%;
+			border: #E6AE00 solid 2px;
+		}
+
+		.verticalPictures {
+			max-width: 100%;
+			border: #E6AE00 solid 2px;
+		}
+/********************
+  PHONE RESIZING
+********************/
+	@media (max-width: 600px) {
+		#horizontalDivider {
+			display: hidden;
+		}
+	}
