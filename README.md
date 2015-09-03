@@ -1,7 +1,6 @@
 This is a basic site for Mary Bastable. She desired a simple and clean layout that was easily navigated. 
 
 Below is a wishlist described by the client: 
-
 ​- Overall would like a classy/clean look. Something such as: http://www.steffenallen.com, http://cobrienphoto.com, or http://www.marclabrie.co​m​
 
 - If there is a kids/child photography section then use the name "Merry Bee Photography" - I think I still have the domain name. It can be more whimsical - golden yellows/blacks/grays. The rest of the website should be more adult-ish though.
