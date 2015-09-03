@@ -16,12 +16,12 @@ Below is a wishlist described by the client:
 - Deals: Probably should have some sort of rates/packages page. I will try to come up with something
 
 Update(Sept. 3, 2015): 
-1. The MVP of the site is finished. Currently working on cleaning up the site, but basic functionality is complete.
+- The MVP of the site is finished. Currently working on cleaning up the site, but basic functionality is complete.
 
-2. Client opted to change the name to "MerryBee Kids." After seeing how the page looked with different colors and style, she wanted it changed back so that the style was the same throughout the page. 
+- Client opted to change the name to "MerryBee Kids." After seeing how the page looked with different colors and style, she wanted it changed back so that the style was the same throughout the page. 
 
-3. Colors have been approved out of a selection of palettes. Implemented, but subject to change upon further feature updates. 
+- Colors have been approved out of a selection of palettes. Implemented, but subject to change upon further feature updates. 
 
-4. Waiting on links to be provided. Placeholder links to specific pages used instead. ETA unknown.
+- Waiting on links to be provided. Placeholder links to specific pages used instead. ETA unknown.
 
-5. Waiting on package deals to be provided. ETA unknown.
+- Waiting on package deals to be provided. ETA unknown.
