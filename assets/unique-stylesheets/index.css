@@ -1,7 +1,7 @@
 /********************
   GENERAL STYLING
 ********************/
-	body {
+	body, p {
 		font-family: 'Merriweather', serif;
 		border: 0;
 	}
@@ -13,11 +13,11 @@
 	}
 
 	#navbarLinks {
-	  font-size: .90em;
-	  margin: -5px 0 0;
-	  font-weight: normal;
-	  font-family: 'Merriweather', serif;
-	  text-align: center;
+		font-size: .90em;
+		margin: -5px 0 0;
+		font-weight: normal;
+		font-family: 'Raleway', sans-serif;
+		text-align: center;
 	}
 
 	.maryName {
@@ -32,6 +32,8 @@
 
 	.selected {
 		color: #E6AE00;
+		font-weight: bold;
+
 	}
 
 
@@ -41,6 +43,14 @@
 		padding: 0 5%;
 		font-family: 'Open Sans', sans-serif;
 		text-align: center;
+	}
+
+	.circles {
+		color: #9E3F00;
+		font-size: 50%;
+		position: relative;
+		bottom: .3em;
+		padding: 0 5px;
 	}
 
 /********************
